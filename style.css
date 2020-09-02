@@ -1,0 +1,19 @@
+
+h1{
+    color: rgb(248, 33, 194);
+    padding: 40px 0px;
+   
+}
+.container{
+    margin-top: 30px;
+}
+label{
+    color: rgb(21, 138, 83);
+    font-weight: 500;
+}
+h2{
+    color: rgb(20, 133, 127);
+}
+strong{
+    color: rgb(55, 128, 86);
+}
